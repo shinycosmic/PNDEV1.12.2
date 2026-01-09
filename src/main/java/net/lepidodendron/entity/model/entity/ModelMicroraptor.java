@@ -917,11 +917,6 @@ public class ModelMicroraptor extends ModelBasePalaeopedia {
 
 
         this.setRotateAngle(leftPrimaries3, leftPrimaries3.rotateAngleX + (float) Math.toRadians(48.2308561937-Math.sin((Math.PI/180)*((((double)tickAnim/20D))*180/0.3))*-25), leftPrimaries3.rotateAngleY + (float) Math.toRadians(3.1521460885+Math.sin((Math.PI/180)*((((double)tickAnim/20D))*360-160))), leftPrimaries3.rotateAngleZ + (float) Math.toRadians(-9.75821));
-
-
-
-
-
      {
             xx = 0;
             yy = 0;
